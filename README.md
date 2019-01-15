@@ -2,23 +2,21 @@
 
 Technologies used
 
-* React.js
+* Tools and frameworks
+  * React.js
+  * Babel
+  * Boto3
+  * IPython
+  * Node.js
 
-* Babel
-
-* Boto3
-
-* IPython
-
-* Node.js
-
-* AWS Technologies
+* AWS
   * Route53
   * CloudFront
   * S3
+  * Certificate Manager
   * Lambda
   * CodePipeline
   * CodeBuild
-  * Simple Notification Service (SNS)
+  * SNS
+  * IAM
 
-React.js, Boto3, ipython, Babel, Route 53, CloudFront, S3, AWS Lambda, Code Pipeline, Code Build, SNS, Node.js
