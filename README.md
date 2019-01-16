@@ -2,7 +2,7 @@
 
 Technologies used
 
-* Tools and frameworks
+* Tools and Frameworks
   * React.js
   * Babel
   * Boto3
@@ -19,4 +19,8 @@ Technologies used
   * CodeBuild
   * SNS
   * IAM
+
+* Testing
+  * Chai
+  * Mocha 
 
