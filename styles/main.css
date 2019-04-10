@@ -21,11 +21,11 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(52, 152, 219);
+  background-color: #DE841E;
 }
 
 .color--skyBlue {
-  color: rgb(52, 152, 219);
+  color: #DE841E;
 }
 
 .color--cloud {
@@ -229,3 +229,4 @@ h1, h2, h3, h4, h5, h6 {
 .modal__image {
   opacity: 0.2;
 }
+
